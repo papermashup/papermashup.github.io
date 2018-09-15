@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: some useful advice for html
+subtitle: make your project with HTML5
+Boilerplate even better
 gh-repo: papermashup/papermashup.github.io
 gh-badge: [star, fork, follow]
 tags: [html]
@@ -112,7 +113,7 @@ Microsoft Ajax Content Delivery Network:
 
 * https://developer.mozilla.org/en-US/docs/Controlling_DNS_prefetching
 * https://dev.chromium.org/developers/design-documents/dns-prefetching
-* https://blogs.msdn.microsoft.com/ie/2011/03/17/internet-explorer-9-network-performance-improvements/
+* https://blogs.msdn.microsoft.com/ie/2011/03/17/internet-explorer-9
 * http://dayofjs.com/videos/22158462/web-browsers_alex-russel
 
 
