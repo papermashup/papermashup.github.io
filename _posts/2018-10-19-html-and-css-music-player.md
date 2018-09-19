@@ -2,7 +2,7 @@
 layout: post
 title: CSS Music Player
 subtitle: Make a beautiful CSS Music Player code with example
-bigimg: https://scontent-lga3-1.cdninstagram.com/vp/a65528b578e26dea077fa54cebf409d7/5BA51948/t51.2885-15/e35/27880451_864793547058867_4462163286137241600_n.jpg
+bigimg: https://rawgit.com/papermashup/papermashup.github.io/master/img/Q01oans/9922/Screenshot_2018-09-19-22-03-14-52.png
 tags: [css, html]
 ---
 
