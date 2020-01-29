@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://papermashup.github.io"
-baseurl: ""
+baseurl: "/"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: papermashup
+title: PaperMashup
 
 # Short description of your site
 description: A Official web development blog for learning html css js php and more!
@@ -72,20 +72,20 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "shhasan224@gmail.com"
-  facebook: andykinght0
-  github: papermashup
-  twitter: soykothasan4
+  email: "saikot224@gmail.com"
+  facebook: saikot91
+  github: saikothasan
+  twitter: soykothasn
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: saikot.sh
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +8809638358146
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Papermashup.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "papermashup.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -132,7 +132,7 @@ gtag: "UA-125139472-1"
 # --- Misc --- #
 
 # Facebook App ID
-fb_app_id: "583973882017451"
+fb_app_id: "443344326514646"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
@@ -145,7 +145,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Bangladesh/Dhaka"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
